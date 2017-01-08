@@ -1,0 +1,3 @@
+branch1 localhost 8080
+branch2 localhost 8081
+branch3 localhost 8082
